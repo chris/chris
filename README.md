@@ -4,5 +4,5 @@ Hi there, I'm Chris - long time software developer, CTO, company co-founder, and
 
 I'm currently co-founder and CTO at [NatureQuant](https://www.naturequant.com), where we're delivering technology to assess and promote nature exposure. Nature provides profound mental and physical health benefits. Through innovative tech and data science, we provide tools to leverage nature's impact. 
 
-I was previously co-founder at [HotelTonight](https://hoteltonight.com). You can check out [my LinkedIn](https://www.linkedin.com/in/chrisrbailey/) for a full work history. Finally, my [blog is here](https://medium.com/@chrisrbailey).
+I was previously co-founder at [HotelTonight](https://hoteltonight.com) (acquired by [Airbnb](https://www.airbnb.com) in April 2019), the best hotel booking app out there! You can check out [my LinkedIn](https://www.linkedin.com/in/chrisrbailey/) for a full work history. Finally, my [blog is here](https://medium.com/@chrisrbailey).
 
